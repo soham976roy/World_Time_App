@@ -12,3 +12,7 @@ Here is some screenshots of basic workflow of the app :
 
 <img src="https://user-images.githubusercontent.com/83572390/178095411-a702af50-667c-4c33-b8c5-205c6f8cefeb.png" width="20%"><img src="https://user-images.githubusercontent.com/83572390/178095560-f30e11ef-3a41-4c75-ab36-f5ec2534825c.png" width="20%"><img src="https://user-images.githubusercontent.com/83572390/178095637-e27641fc-be47-486b-9380-a302c9800b17.png" width="20%"><img src="https://user-images.githubusercontent.com/83572390/178095635-8b79e80b-5b85-42ed-b8e8-335e45910ee0.png" width="20%"><img src="https://user-images.githubusercontent.com/83572390/178095629-d7d605a8-190a-4553-b76b-654a1efc892a.png" width="20%">
 
+
+<h2>Conclusion</h2>
+
+Thank you for visiting my project. If there is any issue, feel free to contact me @ <b>sohamroy976@gmail.com</b>
